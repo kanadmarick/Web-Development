@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kanad Marick - Resume</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <header class="site-header">
+        <div class="container header-inner">
+            <div class="identity">
+                <h1>Kanad Marick</h1>
+                <p class="tagline">Software Developer</p>
+            </div>
+            <nav class="main-nav" aria-label="Primary Navigation">
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#education">Education</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="about" class="section about">
+            <div class="container">
+                <h2>About</h2>
+                <p>Results-driven developer with a passion for building reliable, user-focused web solutions. Adept at translating business requirements into clean, maintainable code.</p>
+                <p><a class="btn" href="../Kanad_Marick-resume.docx.pdf" target="_blank" rel="noopener">Download PDF Resume</a></p>
+            </div>
+        </section>
+
+        <section id="experience" class="section experience">
+            <div class="container">
+                <h2>Experience</h2>
+                <div class="timeline">
+                    <article class="item">
+                        <h3>Job Title / Role <span class="meta">Company Name • 2024 – Present</span></h3>
+                        <ul>
+                            <li>Achievement or responsibility that highlights impact.</li>
+                            <li>Improved X by Y% through Z.</li>
+                            <li>Collaborated with cross-functional teams to deliver features.</li>
+                        </ul>
+                    </article>
+                    <article class="item">
+                        <h3>Previous Role <span class="meta">Prior Company • 2022 – 2024</span></h3>
+                        <ul>
+                            <li>Key accomplishment with measurable result.</li>
+                            <li>Maintained and optimized existing systems.</li>
+                            <li>Introduced automation that reduced manual work.</li>
+                        </ul>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="section projects">
+            <div class="container">
+                <h2>Projects</h2>
+                <div class="cards">
+                    <div class="card">
+                        <h3>Project Name</h3>
+                        <p>Brief description of what the project does and your role.</p>
+                        <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+                        <a href="#" class="inline-link">View Repo</a>
+                    </div>
+                    <div class="card">
+                        <h3>Another Project</h3>
+                        <p>Brief description showing problem solved or value delivered.</p>
+                        <p><strong>Tech:</strong> Python, Flask, SQL</p>
+                        <a href="#" class="inline-link">View Demo</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="education" class="section education">
+            <div class="container">
+                <h2>Education</h2>
+                <ul class="list-plain">
+                    <li>
+                        <strong>Degree Name</strong> – University Name (Year – Year)<br />
+                        Relevant coursework: Algorithms, Web Development, Databases
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="skills" class="section skills">
+            <div class="container">
+                <h2>Skills</h2>
+                <div class="skill-groups">
+                    <div>
+                        <h3>Languages</h3>
+                        <ul class="tags">
+                            <li>JavaScript</li>
+                            <li>Python</li>
+                            <li>Java</li>
+                            <li>SQL</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3>Frameworks & Tools</h3>
+                        <ul class="tags">
+                            <li>React</li>
+                            <li>Node.js</li>
+                            <li>Git</li>
+                            <li>Docker</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3>Other</h3>
+                        <ul class="tags">
+                            <li>REST APIs</li>
+                            <li>Agile</li>
+                            <li>Testing</li>
+                            <li>CI/CD</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="section contact">
+            <div class="container">
+                <h2>Contact</h2>
+                <ul class="contact-list">
+                    <li><strong>Email:</strong> <a href="mailto:you@example.com">you@example.com</a></li>
+                    <li><strong>LinkedIn:</strong> <a href="#" target="_blank" rel="noopener">linkedin.com/in/yourprofile</a></li>
+                    <li><strong>GitHub:</strong> <a href="#" target="_blank" rel="noopener">github.com/yourhandle</a></li>
+                    <li><strong>Location:</strong> City, Country</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; <span id="year"></span> Kanad Marick. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+</body>
+</html>
