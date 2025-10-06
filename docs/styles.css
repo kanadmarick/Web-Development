@@ -1,0 +1,5 @@
+/* Reuse resume styles */
+@import url("../resume/styles.css");
+
+/* Override additions specific to GitHub Pages if needed */
+body { min-height: 100vh; }
