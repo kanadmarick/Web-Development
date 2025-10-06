@@ -1,0 +1,120 @@
+﻿Kanad Marick
+kanadmarick@gmail.com · GitHub/kanadmarick · LinkedIn/kanad-marick-79a5a1129 
+Phone.- +91 8697401075. 
+
+
+SUMMARY
+
+
+Enterprising, sincere, and intuitive Software Engineer with 6 years of experience in developing desktop applications, batch processing systems, and business intelligence solutions using Python and cloud services with experience in implementing devops strategies seeking an opportunity to contribute technical expertise and drive impactful solutions.
+
+
+  
+
+
+
+
+
+
+
+KEY COMPETENCIES
+
+
+Python, C#, .NET 6, SQL (MySQL)
+
+
+	Git, Stonebranch, Autosys, ServiceNow, ITIL
+	Strong interpersonal skills & impeccable communication skills
+	
+
+	
+
+	Jenkins, Kubernetes, Docker, Ansible, Terraform
+	AWS, GCP,Linux/Unix, shell scripting (BASIS PRO/5)
+	Proactive and self-motivated
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+PROJECT EXPERIENCE 
+
+
+Technical Lead Cognizant                                                               Feb2024- Present
+Working as a L3 Support Engineer for multiple. applications in the Canadian banking domain, focused on delivering risk assessment solutions. Key contributions include:
+* Onboarding new applications, performing infrastructure maintenance, and executing environment migrations.
+* Monitoring and troubleshooting batch jobs, implementing production changes, and managing incidents to ensure uninterrupted service.
+* Implemented a data‑copy request workflow, reducing manual intervention by 50% through end‑to‑end automation.
+
+
+Software Engineer Cognizant 
+
+
+Voya Insurance ADM        July2019-Jan2024
+
+
+* Worked as the sole developer in the migration of a long-standing legacy application (ULx Life) to a Unix based Vantage platform for Voya. The project supported transaction processing for thousands of insurance policies and required in-depth code analysis, regular code modifications, and data separation activities. Collaborated directly with the client in frequent feedback loops to address evolving requirements. The work involved technologies such as C#, Python, Linux/Unix, and shell scripting with BASIS PRO/5, bridging legacy systems with modern infrastructure.
+* Automated batch reruns using python and C#, resulting in a 30% reduction in execution time.
+* Developed automation to perform timely data purging on servers, ensuring compliance and optimal storage utilization.
+* Drove DevOps initiatives by building CI/CD pipelines and automating resource provisioning, enhancing deployment frequency and system reliability.
+* Contributed to end-to-end migration projects involving the complete transformation of legacy VB6 applications to the .NET Framework, enhancing performance, maintainability, and scalability.
+* Designed and implemented a python-based automation solution to generate biweekly reports by querying the database and distributing the results to users, streamlining the reporting process and minimizing manual intervention cutting manual prep time by 80%.
+* Contributed to database migration and file transfer protocol upgrade projects, involving Unix shell scripting and automated code deployment using Jenkins within a CI/CD pipeline reducing deployment errors by 50%.
+________________
+
+
+
+
+Learning Path
+
+
+I have been trained in .NET MVC Framework in Cognizant Academy.
+As a part of self development I have taken live classes in Python through CTS Learn and also completed Python courses in Udemy.
+Completed Google Cloud Certification training in Udemy.
+Completed Post Grad Degree in DevOps from Caltech.
+
+
+
+
+EDUCATION
+
+
+Caltech — Postgraduate Certificate in DevOps (2022–2023)
+
+
+
+
+
+
+	
+
+
+
+12th CBSE, Delhi Public School, Ruby Park-Percentage-82%
+
+
+
+
+	Kalinga Institute of Industrial Technology — B.Tech, Electrical Engineering (2015–2019) CGPA -7.55
+
+
+	10th ICSE, Holy Cross School, Kolkata-Percentage-94%
