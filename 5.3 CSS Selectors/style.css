@@ -1,0 +1,24 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+p[class="note"] {
+  color: red;
+  font-weight: bold;
+}
+
+li[value="2"], li[value="5"] {
+  color: Black;
+  font-weight: bold;
+}
+li[id ="id-selector-demo"] {
+  color: green;
+  font-weight: bold;
+}
+li[value="4"] {
+  color: Purple;
+  font-weight: bold;
+}
